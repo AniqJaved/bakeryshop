@@ -1,42 +1,36 @@
-# Shopeee
+# Bakery Shop
 
-[![mylogo.png](https://s4.gifyu.com/images/mylogo.png)](https://gifyu.com/image/S9s0G)
+[![mylogo3f98826c1b82a39d.png](https://s4.gifyu.com/images/mylogo3f98826c1b82a39d.png)](https://gifyu.com/image/S9NkS)
 
 ### Participants
 
-Github : @VanshajPoonia @HarshvardhanMor
+Github : @AniqJaved 
 
-Twitter : @VanshajPoonia @HarshvardhanMor
-
-Discord : VanshajPoonia#2992   ! Shield 🌙#4151
+Discord : AniqJaved#4687
 
 ### Description
 
-We have created a Web storefront using NextJs paired with MedusaJs
+This is a bakery shop storefront powered by using NextJs combined with MedusaJs
 
 ### Preview
-[![ezgif.com-gif-maker336d6bb0a0947860.gif](https://s4.gifyu.com/images/ezgif.com-gif-maker336d6bb0a0947860.gif)](https://gifyu.com/image/S9s4M)
+[![bakeryshop.gif](https://s7.gifyu.com/images/bakeryshop.gif)](https://gifyu.com/image/S9Nkf)
 
-![Screenshot-2692.png](https://s4.gifyu.com/images/Screenshot-2692.png)
+[![image1643f165dc05a3078.png](https://s7.gifyu.com/images/image1643f165dc05a3078.png)](https://gifyu.com/image/S9Nv3)
 
-![Screenshot-2693.png](https://s4.gifyu.com/images/Screenshot-2693.png)
+[![image2c99580e90d0eed67.png](https://s7.gifyu.com/images/image2c99580e90d0eed67.png)](https://gifyu.com/image/S9Nv9)
 
-![Screenshot-2694.png](https://s4.gifyu.com/images/Screenshot-2694.png)
+[![image334f2d9bc31afcc52.png](https://s7.gifyu.com/images/image334f2d9bc31afcc52.png)](https://gifyu.com/image/S9Nvw)
 
-![Screenshot-2691.png](https://s4.gifyu.com/images/Screenshot-2691.png)
+[![image56fd1e3d05b1bd76c.png](https://s4.gifyu.com/images/image56fd1e3d05b1bd76c.png)](https://gifyu.com/image/S9NvE)
 
-[![Screenshot-2695.png](https://s4.gifyu.com/images/Screenshot-2695.png)
+[![image56fd1e3d05b1bd76c.png](https://s4.gifyu.com/images/image56fd1e3d05b1bd76c.png)](https://gifyu.com/image/S9NvE)
 
 
-## Set up Project
+## Set up Project Requirements
 
-Here's how to setup and run the project locally :
+You need following requirement to setup your project:
 
 ### Prerequisites
-
-Here are some pre-requisites that you may require to run the project on your system.
-
-Prerequisites:
 
 - Medusa CLI (```npm install -g @medusajs/medusa-cli```) .
 - Redis (https://redis.io/)
@@ -45,40 +39,41 @@ Prerequisites:
 
 ### Install Project
 
-Done with the pre-requisites?
-
-Here are the steps to be taken after that :
+Here are the steps to be taken after that:
 
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/VanshajPoonia/shopeee.git
-```
+git clone https://github.com/AniqJaved/bakeryshop.git
 
-1. Change directory and install dependencies:
 
-```bash
-cd shopeee
-medusa new my-medusa-store --seed
-cd my-medusa-store
-medusa develop
-cd ..
-cd my-store-front && yarn
-yarn dev
-```
-**PLEASE NOTE** THAT IT IS RECOMMENDED TO USE **CMD AS ADMINISTRATOR** while running the commands as the code might show some abnormal behaviour **sometimes**.
+2. Change directory:
+    ```bash
+    cd bakeryshop
+    ```
+3. Install dependencies
+    ```bash
+    cd my-medusa-store
+    yarn install
+    ```
+4. Start the server
+    ```bash
+    medusa develop
+    ```
+5. Change directory , install dependencies and start the store-front
+    ```bash
+    cd ..
+    cd my-store-front
+    yarn install
+    yarn dev
+    ```
+
+
 ## Resources
 
-Here are some technologies that were very useful throughout the process :
 
 - [Medusa’s GitHub repository](https://github.com/medusajs/medusa)
 - [How to Create Services](https://docs.medusajs.com/advanced/backend/services/create-service)
 - [NextJs](https://nextjs.org/)
 - [Readme.so](https://readme.so/editor)
-- [MOST IMPORTANT 😂](https://www.youtube.com/watch?v=f02mOEt11OQ)
 
-
-
-
-1. Use: yarn dev to start the server.
