@@ -13,7 +13,7 @@ Discord : AniqJaved#4687
 This is a bakery shop storefront powered by using NextJs combined with MedusaJs
 
 ### Preview
-<img src="bakeryshop.gif" alt="bakeryshop.gif" width="1000" />
+<img src="./bakeryshop.gif" alt="bakeryshop.gif" width="1000" />
 
 [![bakeryshop.gif](https://s7.gifyu.com/images/bakeryshop.gif)](https://gifyu.com/image/S9Nkf)
 
