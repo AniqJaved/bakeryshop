@@ -15,15 +15,15 @@ This is a bakery shop storefront powered by using NextJs combined with MedusaJs
 ### Preview
 [![bakeryshop.gif](https://s7.gifyu.com/images/bakeryshop.gif)](https://gifyu.com/image/S9Nkf)
 
-[![image1643f165dc05a3078.png](https://s7.gifyu.com/images/image1643f165dc05a3078.png)](https://gifyu.com/image/S9Nv3)
+![image1643f165dc05a3078.png](https://s7.gifyu.com/images/image1643f165dc05a3078.png)
 
-[![image2c99580e90d0eed67.png](https://s7.gifyu.com/images/image2c99580e90d0eed67.png)](https://gifyu.com/image/S9Nv9)
+![image2c99580e90d0eed67.png](https://s7.gifyu.com/images/image2c99580e90d0eed67.png)
 
-[![image334f2d9bc31afcc52.png](https://s7.gifyu.com/images/image334f2d9bc31afcc52.png)](https://gifyu.com/image/S9Nvw)
+![image334f2d9bc31afcc52.png](https://s7.gifyu.com/images/image334f2d9bc31afcc52.png)
 
-[![image56fd1e3d05b1bd76c.png](https://s4.gifyu.com/images/image56fd1e3d05b1bd76c.png)](https://gifyu.com/image/S9NvE)
+![image56fd1e3d05b1bd76c.png](https://s4.gifyu.com/images/image56fd1e3d05b1bd76c.png)
 
-[![image56fd1e3d05b1bd76c.png](https://s4.gifyu.com/images/image56fd1e3d05b1bd76c.png)](https://gifyu.com/image/S9NvE)
+![image7.png](https://s7.gifyu.com/images/image7.png)
 
 
 ## Set up Project Requirements
