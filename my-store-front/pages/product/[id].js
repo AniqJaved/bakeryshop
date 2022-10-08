@@ -60,6 +60,8 @@ const Product = ({ product }) => {
             objectFit="cover"
             layout="fill"
             loading="eager"
+            height={200}
+            width={200}
             src={product.thumbnail}
             alt={`${product.title}`}
           />
@@ -118,7 +120,7 @@ const Product = ({ product }) => {
             </div>
           </div>
           <button className={styles.addbtn} onClick={() => handleAddToBag()}>
-            <span>Add to bag</span>
+            <span>Add to Basket</span>
             <BiShoppingBag />
           </button>
           <div className={styles.tabs}>

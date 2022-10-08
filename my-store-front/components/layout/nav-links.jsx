@@ -5,19 +5,19 @@ import styles from "../../styles/nav-bar.module.css";
 const NavLinks = () => {
   return (
     <div>
-      <Link href="https://www.medusa-commerce.com/">
+      <Link href="#">
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
-          Medusa
+          Cakes
         </a>
       </Link>
-      <Link href="https://nextjs.org/docs/getting-started/">
+      <Link href="#">
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
-          Next.js
+          Cookies
         </a>
       </Link>
-      <Link href="https://github.com/VanshajPoonia/shopeee">
+      <Link href="https://aniqjaved.github.io/portfolio/">
         <a className={styles.navBtn} target="_blank" rel="noreferrer">
-          Github
+          About Us
         </a>
       </Link>
     </div>

@@ -77,3 +77,8 @@ Here are some technologies that were very useful throughout the process :
 - [NextJs](https://nextjs.org/)
 - [Readme.so](https://readme.so/editor)
 - [MOST IMPORTANT 😂](https://www.youtube.com/watch?v=f02mOEt11OQ)
+
+
+
+
+1. Use: yarn dev to start the server.
